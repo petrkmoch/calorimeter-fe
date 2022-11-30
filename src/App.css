@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+div span {
+  width: 200px;
+  display: inline-block;
+}
+
+div.calorie-header span {
+  font-weight: bold;
+}
